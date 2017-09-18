@@ -1,0 +1,35 @@
+[^A-Za-z0-9_.-:=]\b[o|O][A-Za-z0-9_.-]+@[A-Za-z]+\.[a-z]+
+ 32
+emails.txt:5389: To: outlook.team@enron.com
+emails.txt:10713: To: outlook.team@enron.com
+emails.txt:11587: Outlook.2000@enron.com
+emails.txt:13943: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+emails.txt:19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'""
+emails.txt:30117: in the subject line, or send a blank e-mail to
+emails.txt:30122: blank e-mail to on-yild@zdemail.zdlists.com
+emails.txt:35982: Sender: owner-strawbale@crest.org
+emails.txt:36031: From: owner-strawbale@crest.org
+emails.txt:36036: X-From: owner-strawbale@crest.org
+emails.txt:36055: Sender: owner-strawbale@crest.org
+emails.txt:38056: To: outlook.team@enron.com
+emails.txt:39073: Outlook.2000@enron.com
+emails.txt:41884: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+emails.txt:48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'""
+emails.txt:52637: From: outlook-migration-team@enron.com
+emails.txt:52653: From: outlook-migration-team@enron.com
+emails.txt:54429: you prefer not to receive emails of this nature please send an email to rem=
+emails.txt:59228: From: online.service@schwab.com
+emails.txt:59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+emails.txt:64780: mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com,
+emails.txt:68977: From: open2win.0ll1.net@mailman.enron.com
+emails.txt:68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+emails.txt:81774: in the subject line, or send a blank e-mail to
+emails.txt:81779: blank e-mail to on-yild@zdemail.zdlists.com
+emails.txt:85063: From: owner-strawbale@crest.org
+emails.txt:85068: X-From: owner-strawbale@crest.org
+emails.txt:85087: Sender: owner-strawbale@crest.org
+emails.txt:86066: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'""
+emails.txt:90620: Sender: owner-strawbale@crest.org
+emails.txt:90927: Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+emails.txt:92996: Outlook.2000@enron.com
+Found 32 matches for "[^A-Za-z0-9_.-:=]\b[o|O][A-Za-z0-9_.-]+@[A-Za-z]+\.[a-z]+".
